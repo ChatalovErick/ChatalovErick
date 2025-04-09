@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Transparent&color=0000&height=300&section=header&text=Hi%20There,%20my%20name%20is%20Erick%20Chatalov&fontSize=90)
+# Hi there, my name is Erick Chatalov
 
 <a href="https://www.instagram.com/thepiyushmalhotra/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
