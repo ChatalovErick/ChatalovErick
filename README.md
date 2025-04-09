@@ -1,8 +1,6 @@
 # Hi there, my name is Erick Chatalov
 
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
+I'm from Portugal, I'm a Statistician/Data Scientist with an obsession in making code run faster and build algorithms that predicts or analyses trends. With a bachelor's in Applied Statistics and a master's in Biostatistics, I'm interested in applying mathematical models and AI/Machine learning solutions to modern problems.
 
 **ChatalovErick/ChatalovErick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
