@@ -26,7 +26,7 @@ Currently upskilling via the **ITUp Data Engineering Bootcamp** (Nov 2025) and e
 
 ## 🌟 Featured Projects  
 ### 🏆 Lufthansa-Fabric | *Data Engineering*  
-[![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)]
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 🔗 **[View Project on GitHub →](https://github.com/ChatalovErick/Lufthansa-Fabric)**  
 
 **Goal**: Build a scalable flight analytics pipeline in Microsoft Fabric  
@@ -36,7 +36,7 @@ Currently upskilling via the **ITUp Data Engineering Bootcamp** (Nov 2025) and e
 🔗 *Key Tech: PySpark, Delta Lake, Fabric Notebooks, Power BI Semantic Model*  
 
 ### 🌍 Social-Development-Project-Fabric | *Data Analysis + Engineering*  
-[![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)]
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 🔗 **[View Project on GitHub →](https://github.com/ChatalovErick/Social-Development-Project-Fabric)**  
 
 **Goal**: Analyze global inequality indicators across 5+ data sources  
@@ -46,7 +46,7 @@ Currently upskilling via the **ITUp Data Engineering Bootcamp** (Nov 2025) and e
 🔗 *Key Tech: Fabric Pipelines, DAX, Statistical Aggregation, Power BI*  
 
 ### 🏥 The-Virtual-ICU | *Healthcare Data Engineering + Analytics*  
-[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://github.com/ChatalovErick/The-Virtual-ICU)  
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 🔗 **[View Project on GitHub →](https://github.com/ChatalovErick/The-Virtual-ICU)**  
 
 **Goal**: Build a real-time patient monitoring simulation with predictive alerting for critical care scenarios  
