@@ -25,9 +25,6 @@ Currently upskilling via the **ITUp Data Engineering Bootcamp** (Nov 2025) and e
 ---
 
 ## 🌟 Featured Projects  
-
-## 🌟 Featured Projects  
-
 ### 🏆 Lufthansa-Fabric | *Data Engineering*  
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python)](https://github.com/ChatalovErick/Lufthansa-Fabric)  
 **Goal**: Build a scalable flight analytics pipeline in Microsoft Fabric  
@@ -55,14 +52,11 @@ Currently upskilling via the **ITUp Data Engineering Bootcamp** (Nov 2025) and e
 
 > 💡 *More projects in [Repositories](https://github.com/ChatalovErick?tab=repositories)*
 
-> 💡 *More projects in [Repositories](https://github.com/ChatalovErick?tab=repositories)*
-
 ---
 
 ## 📈 Learning Journey  
 🎓 **ITUp Data Engineering Bootcamp** (Nov 2025 – Present)  
 - Focus: Production-grade pipelines, cloud infrastructure, testing strategies  
-- Tracking progress in [/learning-journal](link-to-future-repo)  
 
 🔄 **Currently Exploring**:  
 - **Apache Kafka**: Building event-driven, real-time data streaming pipelines  
