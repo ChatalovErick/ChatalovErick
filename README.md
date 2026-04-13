@@ -26,7 +26,9 @@ Currently upskilling via the **ITUp Data Engineering Bootcamp** (Nov 2025) and e
 
 ## 🌟 Featured Projects  
 ### 🏆 Lufthansa-Fabric | *Data Engineering*  
-[![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/ChatalovErick/Lufthansa-Fabric)  
+[![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)]
+🔗 **[View Project on GitHub →](https://github.com/ChatalovErick/Lufthansa-Fabric)**  
+
 **Goal**: Build a scalable flight analytics pipeline in Microsoft Fabric  
 ✅ Implemented Medallion Architecture (Bronze→Silver→Gold layers)  
 ✅ Processed 10K+ flight records with PySpark transformations  
@@ -34,7 +36,9 @@ Currently upskilling via the **ITUp Data Engineering Bootcamp** (Nov 2025) and e
 🔗 *Key Tech: PySpark, Delta Lake, Fabric Notebooks, Power BI Semantic Model*  
 
 ### 🌍 Social-Development-Project-Fabric | *Data Analysis + Engineering*  
-[![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/ChatalovErick/Social-Development-Project-Fabric)  
+[![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)]
+🔗 **[View Project on GitHub →](https://github.com/ChatalovErick/Social-Development-Project-Fabric)**  
+
 **Goal**: Analyze global inequality indicators across 5+ data sources  
 ✅ Unified disparate datasets (World Bank, UN, OECD) with robust data validation  
 ✅ Created interactive Power BI dashboards tracking SDG progress  
@@ -43,6 +47,8 @@ Currently upskilling via the **ITUp Data Engineering Bootcamp** (Nov 2025) and e
 
 ### 🏥 The-Virtual-ICU | *Healthcare Data Engineering + Analytics*  
 [![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://github.com/ChatalovErick/The-Virtual-ICU)  
+🔗 **[View Project on GitHub →](https://github.com/ChatalovErick/The-Virtual-ICU)**  
+
 **Goal**: Build a real-time patient monitoring simulation with predictive alerting for critical care scenarios  
 ✅ Designed a scalable data pipeline to ingest & process simulated ICU vitals using PySpark  
 ✅ Applied statistical process control and anomaly detection to flag early deterioration patterns  
