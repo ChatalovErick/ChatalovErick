@@ -26,7 +26,7 @@ Currently upskilling via the **ITUp Data Engineering Bootcamp** (Nov 2025) and e
 
 ## 🌟 Featured Projects  
 ### 🏆 Lufthansa-Fabric | *Data Engineering*  
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python)](https://github.com/ChatalovErick/Lufthansa-Fabric)  
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/ChatalovErick/Lufthansa-Fabric)  
 **Goal**: Build a scalable flight analytics pipeline in Microsoft Fabric  
 ✅ Implemented Medallion Architecture (Bronze→Silver→Gold layers)  
 ✅ Processed 10K+ flight records with PySpark transformations  
@@ -34,7 +34,7 @@ Currently upskilling via the **ITUp Data Engineering Bootcamp** (Nov 2025) and e
 🔗 *Key Tech: PySpark, Delta Lake, Fabric Notebooks, Power BI Semantic Model*  
 
 ### 🌍 Social-Development-Project-Fabric | *Data Analysis + Engineering*  
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python)](https://github.com/ChatalovErick/Social-Development-Project-Fabric)  
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/ChatalovErick/Social-Development-Project-Fabric)  
 **Goal**: Analyze global inequality indicators across 5+ data sources  
 ✅ Unified disparate datasets (World Bank, UN, OECD) with robust data validation  
 ✅ Created interactive Power BI dashboards tracking SDG progress  
