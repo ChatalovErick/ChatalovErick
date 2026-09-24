@@ -45,19 +45,6 @@ Currently upskilling via the **ITUp Data Engineering Bootcamp** (Nov 2025) and e
 ✅ Documented data lineage and transformation logic for auditability  
 🔗 *Key Tech: Fabric Pipelines, DAX, Statistical Aggregation, Power BI*  
 
-### 🏥 The-Virtual-ICU | *Healthcare Data Engineering + Analytics*  
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-🔗 **[View Project on GitHub →](https://github.com/ChatalovErick/The-Virtual-ICU)**  
-
-**Goal**: Build a real-time patient monitoring simulation with predictive alerting for critical care scenarios  
-✅ Designed a scalable data pipeline to ingest & process simulated ICU vitals using PySpark  
-✅ Applied statistical process control and anomaly detection to flag early deterioration patterns  
-✅ Created a Power BI dashboard for clinical trend visualization with cohort drill-down  
-✅ Structured data using Medallion Architecture for auditability and reusability  
-🔗 *Key Tech: PySpark, Microsoft Fabric, Power BI, Statistical Modeling, Delta Lake*  
-
-> 💡 *More projects in [Repositories](https://github.com/ChatalovErick?tab=repositories)*
-
 ---
 
 ## 📈 Learning Journey  
